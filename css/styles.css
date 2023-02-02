@@ -11466,3 +11466,11 @@ p {
 strong {
   color: #333;
 }
+
+.status {
+  color: #ffa500;
+  font-size: 14px;
+  font-weight: normal;
+  margin-left: 10px;
+}
+

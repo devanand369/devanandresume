@@ -32,3 +32,7 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
 });
+
+document.getElementById("download-button").addEventListener("click", function(){
+    window.open("assets/DevanandYadav_resume.pdf");
+  });

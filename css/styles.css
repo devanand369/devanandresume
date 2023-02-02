@@ -11433,3 +11433,9 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+#download-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
